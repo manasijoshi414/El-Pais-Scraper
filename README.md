@@ -48,3 +48,8 @@ Hi, Welcome to El Pais website scraper.
 - Images are saved as JPG files in the `images/` directory
 - Translation uses Rapid Translate Multi Traduction API
 - BrowserStack requires account setup for cross-browser testing
+
+## Output 
+
+<img width="888" height="928" alt="Screenshot 2025-11-01 190620" src="https://github.com/user-attachments/assets/108377db-8aea-45d8-a570-f50238b8b888" />
+
