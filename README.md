@@ -38,7 +38,6 @@ Hi, Welcome to El Pais website scraper.
 - `elpais_scraper.py` - Main scraping script
 - `browserstack_test.py` - Cross-browser testing script
 - `requirements.txt` - Python dependencies
-- `setup.sh` - Setup script
 - `images/` - Downloaded article images
 - `README.md` - This file
 
